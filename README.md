@@ -13,6 +13,7 @@ SpaceX is the most successful company of the commercial space age, making space 
 - What is the best algorithm that can be used for binary classification in this case?
 
 <h1 align="center">📄 Methodology</h1>
+
 1. Data collection methodology
 - Using SpaceX Rest API
 - Using Web Scrapping from Wikipedia
