@@ -4,11 +4,11 @@ This Capstone is the 10th (final) course in IBM Data Science Professional Certif
 <h1 align="center">📄 Project Background</h1>
 SpaceX is the most successful company of the commercial space age, making space travel affordable. The company advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. Based on public information and machine learning models, we are going to predict if SpaceX will reuse the first stage.
 
-📄 Questions to be answered
+<h1 align="center">📄 Questions to be answered</h1>
 How do variables such as payload mass, launch site, number of flights, and orbits affect the success of the first stage landing?
 Does the rate of successful landings increase over the years?
 What is the best algorithm that can be used for binary classification in this case?
-📄 Methodology
+<h1 align="center">📄 Methodology</h1>
 1. Data collection methodology
 Using SpaceX Rest API
 Using Web Scrapping from Wikipedia
